@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/C:\Users\opilane\Documents\Gakty\Resources">
+        <file>Resources/img/earth.png</file>
+        <file>Resources/img/galaxy_starfield.png</file>
+        <file>Resources/img/jupiter.png</file>
+        <file>Resources/img/mars.png</file>
+        <file>Resources/img/mercury.png</file>
+        <file>Resources/img/moon.png</file>
+        <file>Resources/img/neptune.png</file>
+        <file>Resources/img/saturn.png</file>
+        <file>Resources/img/sun.png</file>
+        <file>Resources/img/uranus.png</file>
+        <file>Resources/img/venus.png</file>
+    </qresource>
+</RCC>
